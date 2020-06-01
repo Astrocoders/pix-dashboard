@@ -27,7 +27,7 @@ index,name,cnpj,status,participation
 26,Banco do Brasil S.A.,00.000.000/0001-91,Em andamento,DIRETA
 27,Banco do Estado de Sergipe,13.009.717/0001-46,Em andamento,DIRETA
 28,Banco do Estado do Pará S.A.,04.913.711/0001-08,Em andamento,DIRETA
-29 Banco do Estado do Rio Grande do Sul S.A.,92.702.067/0001-96,Em andamento,DIRETA
+29,Banco do Estado do Rio Grande do Sul S.A.,92.702.067/0001-96,Em andamento,DIRETA
 30,Banco do Nordeste do Brasil S.A.,07.237.373/0001-20,Em andamento,DIRETA
 31,Banco Fibra S.A.,58.616.418/0001-08,Em andamento,DIRETA
 32,Banco Guanabara S.A.,31.880.826/0001-16,Em andamento,DIRETA
@@ -77,8 +77,7 @@ Serviços Ltda.",18.189.547/0001-42,Em andamento,INDIRETA
 74,"Cooperativa Central de Crédito Noroeste Brasileiro LTDA.",04.632.856/0001-30,Em andamento,DIRETA
 75,"Cooperativa de Crédito Mútuo dos Despachantes de Trânsito de Santa Catarina e Rio Grande do Sul",04.715.685/0001-03,Em andamento,DIRETA
 76,Cooperativa de Crédito Rural Coopavel,76.461.557/0001-91,Em andamento,DIRETA
-77,"Cooperativa de Crédito Rural de Ouro –
-Sulcredi/Ouro",07.853.842/0001-35,Em andamento,DIRETA
+77,"Cooperativa de Crédito Rural de Ouro – Sulcredi/Ouro",07.853.842/0001-35,Em andamento,DIRETA
 78, Creditas Sociedade de Crédito Direto S.A.,32.997.490/0001-39,Em andamento,DIRETA
 79, Credisan Cooperativa de Crédito,62.109.566/0001-03,Em andamento,DIRETA
 80,"Crefisa S.A. - Crédito, Financiamento e Investimentos",60.779.196/0001-96,Em andamento,INDIRETA
@@ -90,14 +89,12 @@ Sulcredi/Ouro",07.853.842/0001-35,Em andamento,DIRETA
 86, Ewally Tecnologia e Serviços S.A.,00.714.671/0001-14,Em andamento,INDIRETA
 87,"Fecompay Gestão Empresarial e Financeira
 Ltda.",36.582.881/0001-43,Em andamento,INDIRETA
-88,"Financial Trade Gestão Empresarial e
-Financeira Ltda.",35.441.984/0001-20,Em andamento,INDIRETA
-89 Freedom2buy.com Brasil Ltda.,03.856.113/0001-81,Em andamento,INDIRETA
-90,"Funbank Gestão Empresarial e Financeira
-Ltda.",36.059.974/0001-98,Em andamento,INDIRETA
-91 Galax Pay Pagamentos Eletrônicos Ltda.,30.765.018/0001-45,Em andamento,INDIRETA
-92 Gerencianet Pagamentos do Brasil Ltda.,09.089.356/0001-18,Em andamento,DIRETA
-93 KRS Gestão Financeira Ltda.,34.568.449/0001-72,Em andamento,INDIRETA
+88,"Financial Trade Gestão Empresarial e Financeira Ltda.",35.441.984/0001-20,Em andamento,INDIRETA
+89, Freedom2buy.com Brasil Ltda.,03.856.113/0001-81,Em andamento,INDIRETA
+90,"Funbank Gestão Empresarial e Financeira Ltda.",36.059.974/0001-98,Em andamento,INDIRETA
+91, Galax Pay Pagamentos Eletrônicos Ltda.,30.765.018/0001-45,Em andamento,INDIRETA
+92, Gerencianet Pagamentos do Brasil Ltda.,09.089.356/0001-18,Em andamento,DIRETA
+93, KRS Gestão Financeira Ltda.,34.568.449/0001-72,Em andamento,INDIRETA
 94,"Harapay Soluções em Meios de Pagamento Ltda.",07.340.956/0001-81,Em andamento,INDIRETA
 95, Iron Serviços Financeiros S.A.,34.292.285/0001-01,Em andamento,INDIRETA
 96, Itaú Unibanco S.A.,60.701.190/0001-04,Em andamento,DIRETA
@@ -105,8 +102,7 @@ Ltda.",36.059.974/0001-98,Em andamento,INDIRETA
 98, Madeira Administradora de Cartões Ltda.,32.192.325/0001-00,Em andamento,INDIRETA
 99, IUGU Serviços na Internet S.A.,15.111.975/0001-64,Em andamento,DIRETA
 100, Mercadopago.com Representações Ltda.,10.573.521/0001-91,Em andamento,DIRETA
-"Money Plus Sociedade de Crédito ao
-101, Microempreendedor e à Empresa de Pequeno Porte Ltda.",11.581.339/0001-45,Em andamento,DIRETA
+101, "Money Plus Sociedade de Crédito ao Microempreendedor e à Empresa de Pequeno Porte Ltda.",11.581.339/0001-45,Em andamento,DIRETA
 102,"MTCOM Consultoria em Tecnologia da
 Informação Ltda.",23.114.447/0001-97,Em andamento,INDIRETA
 103,"Novo Banco Continental S.A. – Banco Múltiplo",74.828.799/0001-45,Em andamento,DIRETA
@@ -145,7 +141,6 @@ S.A.",17.079.937/0001-05,Em andamento,INDIRETA
 135, Uniprime Central - Central Interestadual de Cooperativas de Crédito Ltda.,03.046.391/0001-73,Em andamento,DIRETA
 136,"Uniprime Norte do Paraná - Cooperativa de Crédito Ltda.",02.398.976/0001-90,Em andamento,DIRETA
 137, Valepay Brasil Ltda.,28.220.872/0001-84,Em andamento,INDIRETA
-138,"XCloud Brasil Intermediação e
-Agenciamento de Negócios Ltda.",23.010.551/0001-31,Em andamento,INDIRETA
+138,"XCloud Brasil Intermediação e Agenciamento de Negócios Ltda.",23.010.551/0001-31,Em andamento,INDIRETA
 139, XPAGO SOLUCOES EM PAGAMENTOS LTDA. 30.354.551/0001-14,Em andamento,INDIRETA
 140, Zema CFI S.A.,05.351.887/0001-86,Em andamento,DIRETA

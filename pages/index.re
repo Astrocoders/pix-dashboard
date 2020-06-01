@@ -40,9 +40,9 @@ let make = () => {
      ->search
      ->Belt.Array.map(participant => {
          <P key={participant.cnpj}>
-           <a href={"/participant/" ++ Seed.slugify(participant)}>
-             participant.name->React.string
-           </a>
+           {<a href={"/participant/" ++ Seed.slugify(participant)}>
+              participant.name->React.string
+            </a>}
          </P>
        })
      ->React.array}
