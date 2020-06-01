@@ -68,5 +68,5 @@ let getStaticPaths: Next.GetStaticPaths.t(params) =
         }
       );
 
-    Js.Promise.resolve(Next.GetStaticPaths.{paths, fallback: false});
+    Js.Promise.resolve(Next.GetStaticPaths.{paths, fallback: true});
   };

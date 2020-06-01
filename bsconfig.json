@@ -3,12 +3,13 @@
   "namespace": false,
   "reason": { "react-jsx": 3 },
   "refmt": 3,
-  "bs-dependencies": ["reason-react", "bs-fetch", "@glennsl/bs-json"],
+  "bs-dependencies": ["reason-react", "bs-fetch", "@glennsl/bs-json", "bs-fluture", "decco"],
   "ppx-flags": [
     [
       "@dylanirlbeck/tailwind-ppx/tailwind-ppx",
       "-path ../node_modules/tailwindcss/dist/tailwind.min.css"
-    ]
+    ],
+    "decco/ppx"
   ],
   "sources": [
     { "dir": "re_pages" },

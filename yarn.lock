@@ -1682,6 +1682,11 @@ bs-fetch@^0.5.2:
   resolved "https://registry.yarnpkg.com/bs-fetch/-/bs-fetch-0.5.2.tgz#a9f4582ddb1414d3467b900305c738813481988c"
   integrity sha512-CYweTJcgLeLOqzR3vNsB+NmyEFhWThnPNdZmmF28nkFmo0CQEf+20eSHZJDO6EuAhhoRqJ0qp2VgxtH6zBB5xA==
 
+bs-fluture@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/bs-fluture/-/bs-fluture-0.5.0.tgz#374b5f936c6f04c5a1a8f11d3f9b2fc6c4e4f615"
+  integrity sha512-GfLCWByI3vM6BcWmfZINy03qsW/PYg1HTwKtDi6+6EY0ZuLWJq27HE65oQNQYCg2iizJ6pCw7eAJ6qjvJri5xg==
+
 bs-platform@^7.1.1:
   version "7.3.2"
   resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-7.3.2.tgz#301f5c9b4e8cf5713cb60ca22e145e56e793affe"
@@ -2401,6 +2406,11 @@ debug@^4.1.0:
   dependencies:
     ms "^2.1.1"
 
+decco@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/decco/-/decco-1.2.1.tgz#f64b68c5ef1a689d438b6064fbf93af0f8cfbbca"
+  integrity sha512-esHlkq1D6elqdeqVG2EZfkcQ2g5knhMfeACxwiIc1KjOb3D2a+rQfRt9KpNBIZkl6kiQmH6Wwnp3yCIckj/S2A==
+
 decode-uri-component@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
@@ -2864,6 +2874,14 @@ flush-write-stream@^1.0.0:
   dependencies:
     inherits "^2.0.3"
     readable-stream "^2.3.6"
+
+fluture@^12.2.1:
+  version "12.2.1"
+  resolved "https://registry.yarnpkg.com/fluture/-/fluture-12.2.1.tgz#75fc0f3701fb96d0db8f7f7a3ded3bd24cc1f8f7"
+  integrity sha512-SdfD52qioodjij8hZqkHys30s9Cvr4Oyb/2Xqf4rjvDOigHjP2v18fNS8Pl+0NnjZ9G4DYKv5/bEItNs2zfixg==
+  dependencies:
+    sanctuary-show "^2.0.0"
+    sanctuary-type-identifiers "^3.0.0"
 
 for-in@^1.0.2:
   version "1.0.2"
@@ -5350,6 +5368,16 @@ safer-buffer@^2.0.2, safer-buffer@^2.1.0, safer-buffer@~2.1.0:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
+
+sanctuary-show@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/sanctuary-show/-/sanctuary-show-2.0.0.tgz#2326b4744f4b0f993f18ca56a29f68a50f514637"
+  integrity sha512-REj4ZiioUXnDLj6EpJ9HcYDIEGaEexmB9Fg5o6InZR9f0x5PfnnC21QeU9SZ9E7G8zXSZPNjy8VRUK4safbesw==
+
+sanctuary-type-identifiers@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/sanctuary-type-identifiers/-/sanctuary-type-identifiers-3.0.0.tgz#51cb488d2ed9f194946a64ffe2b41dd49a348c0b"
+  integrity sha512-YFXYcG0Ura1dSPd/1xLYtE2XAWUEsBHhMTZvYBOvwT8MeFQwdUOCMm2DC+r94z6H93FVq0qxDac8/D7QpJj6Mg==
 
 sass-loader@8.0.2:
   version "8.0.2"
