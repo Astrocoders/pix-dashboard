@@ -76,12 +76,7 @@ module BasicInfo = {
 
     let path = {j|$nfeURL/legalentities/basicInfo/$cnpj?api_key=$nfeKey|j};
 
-    Js.log(path);
     tryP(() => Bs_fetch.(fetch(path) |> Js.Promise.then_(Response.json)))
     |> map(t_decode)
-    |> map(res => {
-         Js.log(res);
-         res;
-       });
   };
 };
