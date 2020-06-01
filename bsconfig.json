@@ -1,0 +1,32 @@
+{
+  "name": "pix-dashboard",
+  "namespace": false,
+  "reason": { "react-jsx": 3 },
+  "refmt": 3,
+  "bs-dependencies": ["reason-react", "bs-fetch", "@glennsl/bs-json"],
+  "ppx-flags": [
+    [
+      "@dylanirlbeck/tailwind-ppx/tailwind-ppx",
+      "-path ../node_modules/tailwindcss/dist/tailwind.min.css"
+    ]
+  ],
+  "sources": [
+    { "dir": "re_pages" },
+    { "dir": "common" },
+    { "dir": "bindings" },
+    { "dir": "pages", "subdirs": true },
+    { "dir": "components", "subdirs": true },
+    "layouts"
+  ],
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "bsc-flags": ["-bs-no-version-header", "-bs-super-errors", "-bs-g"],
+  "gentypeconfig": {
+    "language": "untyped",
+    "shims": [],
+    "module": "es6"
+  }
+}

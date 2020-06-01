@@ -1,0 +1,151 @@
+index,name,cnpj,status,participation
+1, Acesso Soluções de Pagamento S.A.,13.140.088/0001-99,Em andamento,DIRETA
+2,"Amaggi S.A. - Crédito, Financiamento e Investimento",27.214.112/0001-00,Em andamento,DIRETA
+3, Asaas Gestão Financeira S.A.,19.540.550/0001-21,Em andamento,DIRETA
+4,"Associação de Poupança e Empréstimos Poupex",00.655.522/0001-21,Em andamento,INDIRETA
+5,"Avista S.A. Crédito Financiamento e Investimento",23.862.762/0001-00,Em andamento,DIRETA
+6, Banco A J Renner S.A.,92.874.270/0001-40,Em andamento,DIRETA
+7, Banco ABC Brasil S.A.,28.195.667/0001-06,Em andamento,DIRETA
+8, Banco Agibank S.A.,10.664.513/0001-50,Em andamento,DIRETA
+9, Banco Alfa S.A.,03.323.840/0001-83,Em andamento,DIRETA
+10, Banco Andbank (Brasil) S.A.,48.795.256/0001-69,Em andamento,DIRETA
+11, Banco Arbi S.A.,54.403.563/0001-50,Em andamento,DIRETA
+12,"Banco Bari de Investimentos e Financiamentos S.A.",00.556.603/0001-74,Em andamento,DIRETA
+13, Banco BMG S.A.,61.186.680/0001-74,Em andamento,DIRETA
+14, Banco Bradesco S.A.,60.746.948/0001-12,Em andamento,DIRETA
+15, Banco BS2 S.A.,71.027.866/0001-34,Em andamento,DIRETA
+16, Banco BTG Pactual S.A.,30.306.294/0001-45,Em andamento,DIRETA
+17, Banco C6 S.A.,31.872.495/0001-72,Em andamento,DIRETA
+18, Banco Capital S.A.,15.173.776/0001-80,Em andamento,DIRETA
+19, Banco Citibank S.A.,33.479.023/0001-80,Em andamento,DIRETA
+20, Banco Cooperativo do Brasil S.A. - Bancoob,02.038.232/0001-64,Em andamento,DIRETA
+21,Banco Crefisa S.A.,61.033.106/0001-86,Em andamento,DIRETA
+22,Banco da Amazônia S.A.,04.902.979/0001-44,Em andamento,DIRETA
+23,Banco Daycoval S.A.,62.232.889/0001-90,Em andamento,DIRETA
+24,Banco de Brasília S.A.,00.000.208/0001-00,Em andamento,DIRETA
+25,Banco Digio S.A.,27.098.060/0001-45,Em andamento,DIRETA
+26,Banco do Brasil S.A.,00.000.000/0001-91,Em andamento,DIRETA
+27,Banco do Estado de Sergipe,13.009.717/0001-46,Em andamento,DIRETA
+28,Banco do Estado do Pará S.A.,04.913.711/0001-08,Em andamento,DIRETA
+29 Banco do Estado do Rio Grande do Sul S.A.,92.702.067/0001-96,Em andamento,DIRETA
+30,Banco do Nordeste do Brasil S.A.,07.237.373/0001-20,Em andamento,DIRETA
+31,Banco Fibra S.A.,58.616.418/0001-08,Em andamento,DIRETA
+32,Banco Guanabara S.A.,31.880.826/0001-16,Em andamento,DIRETA
+33,Banco Indusval S.A.,61.024.352/0001-71,Em andamento,DIRETA
+34,Banco Inter S.A.,00.416.968/0001-01,Em andamento,DIRETA
+35,Banco Itaucard S.A.,17.192.451/0001-70,Em andamento,INDIRETA
+36,Banco KEB Hana do Brasil S.A.,02.318.507/0001-13,Em andamento,DIRETA
+37,Banco Máxima S.A.,33.923.798/0001-00,Em andamento,DIRETA
+38,Banco Mercantil do Brasil S.A.,17.184.037/0001-10,Em andamento,DIRETA
+39,Banco Modal S.A.,30.723.886/0001-62,Em andamento,DIRETA
+40,Banco Original S.A.,92.894.922/0001-08,Em andamento,DIRETA
+41,Banco Ourinvest,78.632.767/0001-20,Em andamento,DIRETA
+42,Banco Pan S.A.,59.285.411/0001-13,Em andamento,DIRETA
+43,Banco Paulista S.A.,61.820.817/0001-09,Em andamento,DIRETA
+44,Banco Pine S.A.,62.144.175/0001-20,Em andamento,DIRETA
+45,Banco Rendimento S.A.,68.900.810/0001-38,Em andamento,DIRETA
+46,Banco Ribeirão Preto S.A.,00.517.645/0001-04,Em andamento,DIRETA
+47,Banco Safra S.A.,58.160.789/0001-28,Em andamento,DIRETA
+48,Banco Santander (Brasil) S.A.,90.400.888/0001-42,Em andamento,DIRETA
+49,Banco Semear S.A.,00.795.423/0001-45,Em andamento,DIRETA
+50,Banco Sicredi S.A.,01.181.521/0001-55,Em andamento,DIRETA
+51,Banco Topázio S.A.,07.679.404/0001-00,Em andamento,DIRETA
+52,Banco Triângulo S.A.,17.351.180/0001-59,Em andamento,DIRETA
+53,Banco Votorantim S.A.,59.588.111/0001-03,Em andamento,DIRETA
+54,Banco XP S.A.,33.264.668/0001-03,Em andamento,DIRETA
+55,"Banestes - Banco do Estado do Espírito Santo S.A.",28.127.603/0001-78,Em andamento,DIRETA
+56, Bankk Administradora de Cartões Ltda.,33.701.581/0001-48,Em andamento,INDIRETA
+57,Bank TV Ltda.,35.581.706/0001-79,Em andamento,INDIRETA
+58,Banrisul Cartões S.A.,92.934.215.0001-06,Em andamento,INDIRETA
+59,Bepay Instituição de Pagamento S.A.,24.313.102/0001-25,Em andamento,INDIRETA
+60,BoletoBancario.com Tecnologia de,21.018.182/0001-06,Em andamento,DIRETA
+61,BPP Instituição de Pagamento S.A.,13.370.835/0001-85,Em andamento,DIRETA
+62,BTX Digital e Participações Ltda.,34.095.416/0001-52,Em andamento,INDIRETA
+63,Cabal Brasil Ltda.,03.766.873/0001-06,Em andamento,INDIRETA
+64, Caixa Econômica Federal,00.360.305/0001-04,Em andamento,DIRETA
+65, Cartos Sociedade de Crédito Direto S. A.,21.332.862/0001-91,Em andamento,DIRETA
+66,"Caruana S.A. - Sociedade de Crédito, Financiamento e Investimento",09.313.766/0001-09,Em andamento,DIRETA
+67,"Casa do Crédito S.A. - Sociedade de Crédito ao Microempreendedor",05.442.029/0001-47,Em andamento,DIRETA
+68,"Celer Processamento Comércio e Serviços
+Ltda.",22.347.623/0001-78,Em andamento,INDIRETA
+69,"Certpay Gestão Empresarial e Financeira Ltda.",36.656.138/0001-90,Em andamento,INDIRETA
+70,"Cloud Walk Meios de Pagamentos e
+Serviços Ltda.",18.189.547/0001-42,Em andamento,INDIRETA
+71,"Confederação Nacional das Cooperativas Centrais UNICRED Ltda. - UNICRED do Brasil",00.315.557/0001-11,Em andamento,DIRETA
+72, "Confederação Nacional das Cooperativas de Crédito e Economia Familiar e Solidária - Cresol Confederação",10.398.952/0001-69,Em andamento,DIRETA
+73, Cooperativa Central de Crédito - Ailos,05.463.212/0001-29,Em andamento,DIRETA
+74,"Cooperativa Central de Crédito Noroeste Brasileiro LTDA.",04.632.856/0001-30,Em andamento,DIRETA
+75,"Cooperativa de Crédito Mútuo dos Despachantes de Trânsito de Santa Catarina e Rio Grande do Sul",04.715.685/0001-03,Em andamento,DIRETA
+76,Cooperativa de Crédito Rural Coopavel,76.461.557/0001-91,Em andamento,DIRETA
+77,"Cooperativa de Crédito Rural de Ouro –
+Sulcredi/Ouro",07.853.842/0001-35,Em andamento,DIRETA
+78, Creditas Sociedade de Crédito Direto S.A.,32.997.490/0001-39,Em andamento,DIRETA
+79, Credisan Cooperativa de Crédito,62.109.566/0001-03,Em andamento,DIRETA
+80,"Crefisa S.A. - Crédito, Financiamento e Investimentos",60.779.196/0001-96,Em andamento,INDIRETA
+81,"Dinamax Pay Tecnologia em Meios de Pagamentos Ltda.",36.671.314/0001-63,Em andamento,INDIRETA
+82,"Ecomovi Soluções e Serviços em Pagamentos Ltda.",33.053.580/0001-34,Em andamento,INDIRETA
+83,"E-DIZ Arranjo de Pagamentos, Licenciamento e Serviços Ltda..",25.269.329/0001-83,Em andamento,INDIRETA
+84,"Emissora e Gerenciadora de Cartões Brasil Ltda.",13.081.547/0001-00,Em andamento,INDIRETA
+85,"Enova Pay Gestão Empresarial e Financeira Ltda.",36.549.037/0001-10,Em andamento,INDIRETA
+86, Ewally Tecnologia e Serviços S.A.,00.714.671/0001-14,Em andamento,INDIRETA
+87,"Fecompay Gestão Empresarial e Financeira
+Ltda.",36.582.881/0001-43,Em andamento,INDIRETA
+88,"Financial Trade Gestão Empresarial e
+Financeira Ltda.",35.441.984/0001-20,Em andamento,INDIRETA
+89 Freedom2buy.com Brasil Ltda.,03.856.113/0001-81,Em andamento,INDIRETA
+90,"Funbank Gestão Empresarial e Financeira
+Ltda.",36.059.974/0001-98,Em andamento,INDIRETA
+91 Galax Pay Pagamentos Eletrônicos Ltda.,30.765.018/0001-45,Em andamento,INDIRETA
+92 Gerencianet Pagamentos do Brasil Ltda.,09.089.356/0001-18,Em andamento,DIRETA
+93 KRS Gestão Financeira Ltda.,34.568.449/0001-72,Em andamento,INDIRETA
+94,"Harapay Soluções em Meios de Pagamento Ltda.",07.340.956/0001-81,Em andamento,INDIRETA
+95, Iron Serviços Financeiros S.A.,34.292.285/0001-01,Em andamento,INDIRETA
+96, Itaú Unibanco S.A.,60.701.190/0001-04,Em andamento,DIRETA
+97, Jeitto Meios de Pagamento Ltda.,20.937.849/0001-01,Em andamento,INDIRETA
+98, Madeira Administradora de Cartões Ltda.,32.192.325/0001-00,Em andamento,INDIRETA
+99, IUGU Serviços na Internet S.A.,15.111.975/0001-64,Em andamento,DIRETA
+100, Mercadopago.com Representações Ltda.,10.573.521/0001-91,Em andamento,DIRETA
+"Money Plus Sociedade de Crédito ao
+101, Microempreendedor e à Empresa de Pequeno Porte Ltda.",11.581.339/0001-45,Em andamento,DIRETA
+102,"MTCOM Consultoria em Tecnologia da
+Informação Ltda.",23.114.447/0001-97,Em andamento,INDIRETA
+103,"Novo Banco Continental S.A. – Banco Múltiplo",74.828.799/0001-45,Em andamento,DIRETA
+104, Nu Pagamentos S.A.,18.236.120/0001-58,Em andamento,DIRETA
+105, OLX Meios de Pagamento Ltda.,17.204.944/0001-83,Em andamento,INDIRETA
+106, Openpymts Tecnologia Ltda.,37.230.044/0001-18,Em andamento,INDIRETA
+107, Ótimo Sociedade de Crédito Direto S.A.,34.335.592/0001-14,Em andamento,DIRETA
+108, PagSeguro Internet S.A.,08.561.701/0001-01,Em andamento,DIRETA
+109, Pagserviços do Brasil Ltda.,10.344.530/0001-00,Em andamento,INDIRETA
+110, Pagueveloz Serviços de Pagamento Ltda.,03.816.413/0001-37,Em andamento,INDIRETA
+111, Paraná Banco S.A.,14.388.334/0001-99,Em andamento,DIRETA
+112,"Parati Crédito Financiamento e Investimento S.A.",03.311.443/0001-91,Em andamento,DIRETA
+113,"Paypal do Brasil Serviços de Pagamento Ltda.",10.878.448/0001-66,Em andamento,DIRETA
+114,"Pernambucanas Financiadora S.A. Crédito, Financimento e Investimento",43.180.355/0001-12,Em andamento,DIRETA
+115, Picpay Serviços S.A.,22.896.431/0001-10,Em andamento,DIRETA
+116,"Pinkbank Brasil - Pagamentos Inteligentes
+S.A.",17.079.937/0001-05,Em andamento,INDIRETA
+117, PJBank Pagamentos S.A.,18.191.228/0001-71,Em andamento,INDIRETA
+118, Plural S.A. Banco Múltiplo,45.246.410/0001-55,Em andamento,DIRETA
+119, "Polocred Sociedade de Crédito ao Microempreendedor e à Empresa de Pequeno Porte Ltda.",07.945.233/0001-06,Em andamento,DIRETA
+120,"NK 061 Empreendimentos e Participações S.A.",34.878.543/0001-28,Em andamento,INDIRETA
+121, Recargapay Pagamentos Ltda.,11.275.560/0001-75,Em andamento,INDIRETA
+122, RoadPass Payments & Urban Mobility Ltda.,25.104.230/0001-21,Em andamento,INDIRETA
+123,"SENFF S.A. - Crédito, Financiamento e Investimento",11.970.623/0001-03,Em andamento,DIRETA
+124, Serveloja Administradora de Créditos Ltda.,10.773.370/0001-15,Em andamento,INDIRETA
+125, Sol e Mar Instituição de Pagamentos Ltda.,35.210.425/0001-00,Em andamento,INDIRETA
+126, Spin Pay Serviços de Pagamentos Ltda.,32.219.232/0001-21,Em andamento,INDIRETA
+127, Stone Pagamentos S.A.,16.501.555/0001-57,Em andamento,DIRETA
+128,"Super Pagamentos e Administração de Meios Eletrônicos S.A.",09.554.480/0001-07,Em andamento,DIRETA
+129, Teto Pagamentos S.A.,34.405.074/0001-20,Em andamento,INDIRETA
+130,"Trampolin Serviços de Intermediação e Tecnologia Ltda.",33.030.337/0001-09,Em andamento,INDIRETA
+131, Transfeera Serviços de Pagamentos Ltda.,27.084.098/0001-69,Em andamento,INDIRETA
+132, Travelex Banco de Câmbio S.A.,11.703.662/0001-44,Em andamento,DIRETA
+133, TVPay Instituição de Pagamentos Ltda.,35.210.436/0001-90,Em andamento,INDIRETA
+134, U4Crypto Soluções Tecnológicas e Financeiras S.A.,30.980.539/0001-15,Em andamento,INDIRETA
+135, Uniprime Central - Central Interestadual de Cooperativas de Crédito Ltda.,03.046.391/0001-73,Em andamento,DIRETA
+136,"Uniprime Norte do Paraná - Cooperativa de Crédito Ltda.",02.398.976/0001-90,Em andamento,DIRETA
+137, Valepay Brasil Ltda.,28.220.872/0001-84,Em andamento,INDIRETA
+138,"XCloud Brasil Intermediação e
+Agenciamento de Negócios Ltda.",23.010.551/0001-31,Em andamento,INDIRETA
+139, XPAGO SOLUCOES EM PAGAMENTOS LTDA. 30.354.551/0001-14,Em andamento,INDIRETA
+140, Zema CFI S.A.,05.351.887/0001-86,Em andamento,DIRETA
