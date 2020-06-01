@@ -1,5 +1,5 @@
 module BasicInfo = {
-  let nfeKey = "";
+  let nfeKey = [%bs.raw "process.env.CNPJ_API_KEY"];
   let nfeURL = "http://legalentity.api.nfe.io/v1";
 
   [@decco]
@@ -42,40 +42,33 @@ module BasicInfo = {
 
   [@decco]
   type address = {
-    state: string,
-    district: string,
-    additionalInformation: string,
-    streetSuffix: string,
-    street: string,
-    number: string,
-    postalCode: string,
-    country: string,
-    city,
+    state: option(string),
+    district: option(string),
+    streetSuffix: option(string),
+    street: option(string),
+    number: option(string),
+    postalCode: option(string),
+    country: option(string),
+    city: option(city),
   };
 
   [@decco]
   type t = {
-    tradeName: string,
     name: string,
     federalTaxNumber: string,
     size: string,
-    openedOn: string,
-    statusOn: string,
-    status: string,
-    email: string,
-    responsableEntity: string,
-    specialStatus: string,
-    specialStatusOn: string,
-    issuedOn: string,
-    statusReason: string,
-    shareCapital: int,
-    registrationUnit: string,
-    unit: string,
+    openedOn: option(string),
+    statusOn: option(string),
+    status: option(string),
+    email: option(string),
+    issuedOn: option(string),
+    shareCapital: float,
+    unit: option(string),
     partners: array(partners),
     legalNature,
     economicActivities: array(economicActivities),
     phones: array(phones),
-    address,
+    address: option(address),
   };
 
   let get = cnpj => {
@@ -83,7 +76,12 @@ module BasicInfo = {
 
     let path = {j|$nfeURL/legalentities/basicInfo/$cnpj?api_key=$nfeKey|j};
 
+    Js.log(path);
     tryP(() => Bs_fetch.(fetch(path) |> Js.Promise.then_(Response.json)))
-    |> map(t_decode);
+    |> map(t_decode)
+    |> map(res => {
+         Js.log(res);
+         res;
+       });
   };
 };

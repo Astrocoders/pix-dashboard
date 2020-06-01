@@ -17,3 +17,5 @@ lib/
 
 .tailwind_ppx_cache/
 .vscode
+.vercel
+.env

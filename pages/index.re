@@ -19,7 +19,7 @@ let make = () => {
     };
 
   <div>
-    <h1 className="text-3xl font-semibold">
+    <h1 className="text-6xl font-semibold">
       "Empresas no PIX"->ReasonReact.string
     </h1>
     <P>
