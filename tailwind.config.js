@@ -5,6 +5,7 @@ module.exports = {
       './components/**/*.re',
       './pages/**/*.re',
       './layouts/**/*.re',
+      './re_pages/**/*.re',
     ],
     options: {
       whitelist: ["html", "body"],

@@ -1,8 +1,8 @@
 type params = {slug: string};
 
 type props = {
-  participant: Js.null(Seed.participant),
-  basicInfo: Js.null(Js.Json.t),
+  participant: Js.Null_undefined.t(Seed.participant),
+  basicInfo: Js.Null_undefined.t(Js.Json.t),
 };
 
 module InfoBlock = {
@@ -15,16 +15,17 @@ module InfoBlock = {
   };
 };
 
+external basicInfoCoerce : Js.Json.t => Api.BasicInfo.t = "%identity";
+
 let default: props => React.element =
   ({participant, basicInfo}) => {
-    let participant = Js.Null.toOption(participant);
+    let participant = Js.Null_undefined.toOption(participant);
 
     // Some malabares needed because BuckleScript represents options as undefined, which can't be serialized
     // By default by NextJs, so we gotta serialize our data again to send over the write and do all this here
     let basicInfo =
-      Js.Null.toOption(basicInfo)
-      ->Belt.Option.map(Api.BasicInfo.t_decode)
-      ->Belt.Option.flatMap(res => res->Belt.Result.mapWithDefault(None, res => Some(res), ));
+      Js.Null_undefined.toOption(basicInfo)
+      ->Belt.Option.map(basicInfoCoerce);
 
     switch (participant) {
     | None => <div> {React.string("Nada aqui")} </div>
@@ -114,13 +115,13 @@ let getStaticProps: Next.GetStaticProps.t(props, params) =
     Api.BasicInfo.get(cnpj)
     |> map(basicInfo => {
          let participant =
-           Seed.getParticipantBySlug(cnpj)->Js.Null.fromOption;
+           Seed.getParticipantBySlug(cnpj)->Js.Null_undefined.fromOption;
 
          basicInfo->Belt.Result.mapWithDefault(
-           {participant, basicInfo: Js.null}, basicInfo =>
+           {participant, basicInfo: Js.Null_undefined.null}, basicInfo =>
            {
              participant,
-             basicInfo: Js.Null.return(Api.BasicInfo.t_encode(basicInfo)),
+             basicInfo: Js.Null_undefined.return(Api.BasicInfo.t_encode(basicInfo)),
            }
          );
        })
