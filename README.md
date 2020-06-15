@@ -8,6 +8,11 @@ Saiba as empresas que estão na fila do PIX!
 - NextJS
 - ReasonML
 
+# Todo
+
+- Nice stats
+- Nice viz
+
 ## Data
 
 Data comes from Banco Central do Brasil.
