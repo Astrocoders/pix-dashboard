@@ -1,5 +1,17 @@
 # PIX Dashboard
 
+Saiba as empresas que estão na fila do PIX!
+
+# Stack
+
+- NFE.io API
+- NextJS
+- ReasonML
+
+## Data
+
+Data comes from Banco Central do Brasil.
+
 ## Development
 
 Run BuckleScript in dev mode:
