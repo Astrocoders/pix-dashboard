@@ -7,7 +7,7 @@
   "ppx-flags": [
     [
       "@dylanirlbeck/tailwind-ppx/tailwind-ppx",
-      "-path ../node_modules/tailwindcss/dist/tailwind.min.css"
+      "-path ./node_modules/tailwindcss/dist/tailwind.min.css"
     ],
     "decco/ppx"
   ],
